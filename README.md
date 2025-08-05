@@ -87,7 +87,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/sergey-tikhonov-qa/sergey-tikhonov-qa/refs/heads/main/diplom.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/sergey-tikhonov-qa/sergey-tikhonov-qa/refs/heads/main/diplom.png)
 
 <br>
 <br>
