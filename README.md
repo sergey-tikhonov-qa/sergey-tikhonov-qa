@@ -11,7 +11,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&theme=synthwave-84&username=sergey-tikhonov-qa)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&theme=nightowl&username=sergey-tikhonov-qa)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
